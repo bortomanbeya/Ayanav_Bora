@@ -1,40 +1,38 @@
-# AI-ML-WORKSHOP-PROJECTS
+# AI-ML-Workshop-Projects
+This repository contains my submissions for the AI/ML Workshop.
 
-📁 SET 5: Housing Price Prediction
-This is my AI/ML project for certificate submission, assigned as part of the Set 5 question – Housing Price Prediction.
+📁 Contents
+🔹 Set 5: Housing Price Prediction
+Dataset: housing.csv
+Task:
 
-✅ Contents
-Data Preprocessing
+Load and preprocess housing data
 
-Model Training using Linear Regression
+Apply Linear Regression for price prediction
 
-Evaluation Metrics (Mean Squared Error, R² Score)
+Evaluate model using MSE and R² Score
 
-Google Colab Notebook
+Visualize actual vs predicted prices
 
-🚀 How to Run
-Open the .ipynb file in Google Colab
+🔹 Set 6: Data Clustering
+Dataset: a1.txt
+Task:
 
-Run all cells in order
+Safe loading of dataset with error handling
 
-View predicted prices and model performance
+Apply K-Means Clustering
 
+Visualize clusters
 
-📁 SET 6: Data Clustering
-This is my AI/ML project for certificate submission, assigned as part of the Set 6 question – Data Clustering using KMeans and DBSCAN.
+Use Elbow method to find optimal number of clusters
 
-✅ Contents
-Dataset Cleaning
+🚀 Tools & Libraries
+Python (Google Colab)
 
-KMeans and DBSCAN Algorithms
+Pandas, NumPy, Scikit-learn
 
-Cluster Visualization
+Matplotlib, Seaborn
 
-Google Colab Notebook
-
-🚀 How to Run
-Open the .ipynb file in Google Colab
-
-Run all cells in order
-
-View clustering results and visualizations
+📌 Note
+These projects were created as part of the official AI/ML workshop for academic credit.
+All notebooks are beginner-friendly and well-commented for clarity.
