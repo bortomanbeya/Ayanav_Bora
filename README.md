@@ -1,8 +1,7 @@
 # AI-ML-Workshop-Projects
 This repository contains my submissions for the AI/ML Workshop.
 
-📁 Contents
-🔹 Set 5: Housing Price Prediction
+# 🔹 Set 5: Housing Price Prediction
 Dataset: housing.csv
 Task:
 
@@ -14,7 +13,7 @@ Evaluate model using MSE and R² Score
 
 Visualize actual vs predicted prices
 
-🔹 Set 6: Data Clustering
+# 🔹 Set 6: Data Clustering
 Dataset: a1.txt
 Task:
 
@@ -33,6 +32,6 @@ Pandas, NumPy, Scikit-learn
 
 Matplotlib, Seaborn
 
-📌 Note
+# 📌 Note
 These projects were created as part of the official AI/ML workshop for academic credit.
 All notebooks are beginner-friendly and well-commented for clarity.
