@@ -32,6 +32,3 @@ Pandas, NumPy, Scikit-learn
 
 Matplotlib, Seaborn
 
-# 📌 Note
-These projects were created as part of the official AI/ML workshop for academic credit.
-All notebooks are beginner-friendly and well-commented for clarity.
